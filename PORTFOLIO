@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Author" content="Nelson">
+    <title>MY PORTFOLIO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <Header>
+        <h1>WELCOME TO MY PORTFOLIO</h1>
+    </Header>
+    <div>
+        <div class="container">
+            <h2>INTRODUCTION</h2>
+            <br>
+            <div class="box"><p style="font-size: large;">MY NAME IS NELSON NJIRI</p>
+                <p>Since i was young i have had a big interest in technology.</p>
+                <p>Iam facinated by robots, AI, Machine learning and algorithims therefor I decided to take a course in software engineering as it is the backbone of the concepts that I have mentioned.</p>
+            </div>
+            <div class="box">
+                <h2>THESE ARE MY PROJECTS</h2>
+                <a href="https://github.com/PLP-Database-Design/week-1-assignment-NJIRI-G">Database-Design</a>
+                <br>
+                <a href="https://github.com/PLP-WebTechnologies/introduction-to-css-NJIRI-G">WEB-Technologies</a>
+                <br>
+                <a href="https://github.com/PLP-WebTechnologies/introduction-to-html-NJIRI-G">BASIC HTML AND CSS LAYOUT</a>
+                <p>Iam profficient in PYTHON</p>
+            </div>
+            <div class="box">
+                <h3>MY MISSION</h3>
+                <p>To Continuously learn and develop technical expertise by Staying updated with the latest trends and technologies in the tech industry.</p>
+                <h3>MY VISION</h3>
+                <P>To become a skilled and innovative technology professional who positively impacts the world through technological advancements.</P>
+            </div>
+        </div>
+    </div> 
+    <br>
+    <section>
+        <h3>EDUCATIONAL BACKGROUND</h3>
+        <P>2022- date :UNIVERSITY OF NAIROBI   BACHELORS DEGREE IN INFORMATION SCIENCE</P>
+        <p>2022-2023  : SIDP BRITISH COUNCIL   BASIC COMPUTER SKILLS</p>
+        <p>2018- 2022 : KANGEMA HIGH SCHOOL</p>
+    </section>
+    <br>
+    <section>
+        <h3>MY INTERESTS</h3>
+        <P>I spend most of my time keepig up with technology and watching movies that are technology centered</P>
+    </section>
+    <br>
+    <footer>
+        <div>
+            <h2>LETS WORK TOGETHER</h2>
+            <P>Email adress: nelsongathogo123@gmail.com</P>
+            <p>Phone NO: +254735095859</p>
+        </div>
+    </footer>   
+</body>
+</html>
